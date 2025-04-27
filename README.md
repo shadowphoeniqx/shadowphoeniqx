@@ -1,3 +1,5 @@
+![Incident Responder](https://img.shields.io/badge/-Incident%20Responder-critical)
+![Bug Bounty Hunter](https://img.shields.io/badge/-Bug%20Bounty%20Hunter-success)
 ![Cybersecurity Enthusiast](https://img.shields.io/badge/-Cybersecurity%20Enthusiast-blue)
 ![SIEM Engineer](https://img.shields.io/badge/-SIEM%20Engineer-yellow)
 ![Threat Hunter](https://img.shields.io/badge/-Threat%20Hunter-red)
