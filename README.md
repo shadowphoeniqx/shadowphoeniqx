@@ -17,10 +17,15 @@ Through dedicated labs, cloud projects, and real-world simulations, I've built a
 🛡️ What I Focus On
 
 🔹 SIEM & Threat Monitoring – Deploying and tuning Wazuh, Elastic Stack, and Suricata IDS.
+
 🔹 Incident Detection & Log Analysis – Investigating Sysmon logs, threat hunting with Kibana.
+
 🔹 Vulnerability Assessment – Scanning with OpenVAS, Nessus, and active network mapping with Nmap.
+
 🔹 Cloud Security Labs – Building AWS cloud labs, securing infrastructure, practicing offensive techniques safely.
+
 🔹 Phishing and Malware Analysis – Analyzing phishing emails, PDFs, and malware samples with Ghidra and sandboxes.
+
 🔹 Network Security Engineering – Deploying personal VPNs, analyzing traffic with Wireshark.
 
 ## 📁 Featured Repositories
