@@ -38,6 +38,7 @@ Through dedicated labs, cloud projects, and real-world simulations, I've built a
 
 
 
+
 🧰 Tools & Platforms
 
 🖥️ VirtualBox | VMware | AWS Free Tier
@@ -51,9 +52,9 @@ Through dedicated labs, cloud projects, and real-world simulations, I've built a
 
 
 
-💼 [LinkedIn Profile] (Coming Soon)
-✉️ Email: [your.email@example.com]
+💼 [LinkedIn Profile] (www.linkedin.com/in/ayomipoallison)
+✉️ Email: ayo.alli@salmonserenade.com
 🌐 Portfolio Site: (coming soon!)
 
-"Learn deeply, think like an attacker, defend like a strategist." – [Your Name]
+"Learn deeply, think like an attacker, defend like a strategist." – [Lukman A. Allison]
 Thanks for stopping by! 🚀 Feel free to ⭐️ any project you find useful — always happy to learn, collaborate, and grow.
