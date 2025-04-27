@@ -19,6 +19,25 @@ Through dedicated labs, cloud projects, and real-world simulations, I've built a
 🔹 Phishing and Malware Analysis – Analyzing phishing emails, PDFs, and malware samples with Ghidra and sandboxes.
 🔹 Network Security Engineering – Deploying personal VPNs, analyzing traffic with Wireshark.
 
+## 📁 Featured Repositories
+
+| Project                   | Description                                            | Link      |
+|----------------------------|---------------------------------------------------------|-----------|
+| **virtual-home-lab**       | Setting up a local cyber lab on macOS/Windows           | [View Repo](#) |
+| **cloud-home-lab**         | Building a cloud-based home lab for cybersecurity practice | [View Repo](#) |
+| **footprinting-techniques**| Info gathering via open-source intelligence and active scanning | [View Repo](#) |
+| **vulnerability-assessment** | Scan and assess network vulnerabilities using security tools | [View Repo](#) |
+| **phishing-email-analysis** | Analyzing phishing emails and spotting key red flags    | [View Repo](#) |
+| **wazuh-siem-lab**         | End-to-end guide for setting up Wazuh SIEM               | [View Repo](#) |
+| **elastic-siem-setup**     | Configuring Elastic Stack for threat hunting             | [View Repo](#) |
+| **suricata-ids-lab**       | Step-by-step IDS setup using Suricata                    | [View Repo](#) |
+| **honeypot-deployment**    | Deceptive traps to attract and analyze cyber attackers   | [View Repo](#) |
+| **pdf-malware-analysis**   | Reverse engineering malicious PDFs                      | [View Repo](#) |
+| **malware-analysis-basics**| Using Ghidra and online sandboxes to inspect malware     | [View Repo](#) |
+| **vpn-server-setup**       | Create a personal VPN on the cloud                      | [View Repo](#) |
+
+
+
 🧰 Tools & Platforms
 
 🖥️ VirtualBox | VMware | AWS Free Tier
