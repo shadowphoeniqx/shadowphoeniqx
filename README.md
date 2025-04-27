@@ -35,7 +35,7 @@ Through dedicated labs, cloud projects, and real-world simulations, I've built a
 | **pdf-malware-analysis**   | Reverse engineering malicious PDFs                      | [View Repo](#) |
 | **malware-analysis-basics**| Using Ghidra and online sandboxes to inspect malware     | [View Repo](#) |
 | **vpn-server-setup**       | Create a personal VPN on the cloud                      | [View Repo](#) |
-| **Linux-Audit-Log-Forensic-Analysis | Forensic Analysis of a Linux Logs             | [view Repo](https://github.com/shadowphoeniqx/Linux-Audit-Log-Forensic-Analysis) |
+| **Linux-Audit-Log-Forensic-Analysis** | Forensic Analysis of a Linux Logs             | [view Repo](https://github.com/shadowphoeniqx/Linux-Audit-Log-Forensic-Analysis) |
 
 
 
